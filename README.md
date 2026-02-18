@@ -1,1 +1,15 @@
 # EUVoicechatCodes
+
+Template:
+
+return {
+	CodeName = {
+		ExpireTime = 1767225600,
+		Rewards = {
+			Auras = "AuraName",
+			Minutes = 10,
+			Tokens = 10,
+			Title = "TitelName"
+		}
+	},
+}

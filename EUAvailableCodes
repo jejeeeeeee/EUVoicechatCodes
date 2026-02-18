@@ -2,10 +2,9 @@
   "CodeName": {
     "ExpireTime": 1772233200,
     "Rewards": {
-      "Auras": "AuraName",
-      "Minutes": 10,
-      "Tokens": 10,
-      "Title": "TitelName"
+      "Minutes": 25,
+      "Tokens": 25,
+      "Title": "Content Creator"
     }
   }
 }

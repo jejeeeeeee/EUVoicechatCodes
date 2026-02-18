@@ -42,7 +42,3 @@ Fields:
 * Do NOT use `return {}`
 * Do NOT use comments inside JSON
 * File must be valid JSON
-
-```
-https://raw.githubusercontent.com/<user>/<repo>/<branch>/<file>
-```

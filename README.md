@@ -5,7 +5,7 @@
 ```lua
 return {
 	CodeName = {
-		ExpireTime = 1767225600,
+		ExpireTime = 1767225600, --This MUST be a unix timestamp, search on google how it works
 		Rewards = {
 			Auras = "AuraName",
 			Minutes = 10,

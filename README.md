@@ -1,7 +1,8 @@
 # EUVoicechatCodes
 
-Template:
+## Template
 
+```lua
 return {
 	CodeName = {
 		ExpireTime = 1767225600,
@@ -13,3 +14,4 @@ return {
 		}
 	},
 }
+```

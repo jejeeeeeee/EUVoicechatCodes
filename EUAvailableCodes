@@ -1,10 +1,11 @@
 {
-  "TestCode13": {
-    "ExpireTime": 1773100800,
+  "RELEASE": {
+    "ExpireTime": 1767139200,
     "Rewards": {
       "Minutes": 25,
       "Tokens": 25,
-      "Title": "Content Creator"
+      "Auras": "Nebula Surge",
+      "Title": "Chicken"
     }
   }
 }

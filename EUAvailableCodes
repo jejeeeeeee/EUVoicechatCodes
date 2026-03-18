@@ -2,8 +2,8 @@
   "RELEASE!": {
     "ExpireTime": 1774864800,
     "Rewards": {
-      "Minutes": 25,
-      "Tokens": 25,
+      "Minutes": 0,
+      "Tokens": 0,
       "Auras": "Nebula Surge",
       "NameEffect": "Chicken"
     }
